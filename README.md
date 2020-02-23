@@ -1,5 +1,5 @@
 # Tinder_bot
-A right swipe tinder bot made using the selenium library in python.😉
+A tinder swipe bot made using the selenium library in python.😉
 
 ## Requirements
 Python 3.7
