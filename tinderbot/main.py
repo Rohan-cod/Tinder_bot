@@ -70,16 +70,17 @@ class TinderBot():
         match_popup.click()
 
     def message_all(self):
-        matches = self.driver.find_element_by_class_name('matchListItem')[1:]
-        if len(matches) < 2:
-            break
-        matches[0].click()
-        sleep(0.2)
-        msg_box = self.find_element_by_class_name('sendMessageForm__input')
-        msg_box.send_keys('Hi :)')
-        send_btn = self.find_element_by_xpath('//*[@id="content"]/div/div[1]/div/main/div[1]/div/div/div/div[1]/div/div/div[3]/form/button')
-        send_btn.click()
-        sleep(1)
-        matches_tab = self.find_element_by_xpath('//*[@id="match-tab"]')
-        matches_tab.click()
-        sleep(0.5)
+        while True:
+            matches = self.driver.find_element_by_class_name('matchListItem')[1:]
+            if len(matches) < 2:
+                break
+            matches[0].click()
+            sleep(0.2)
+            msg_box = self.find_element_by_class_name('sendMessageForm__input')
+            msg_box.send_keys('Hi :)')
+            send_btn = self.find_element_by_xpath('//*[@id="content"]/div/div[1]/div/main/div[1]/div/div/div/div[1]/div/div/div[3]/form/button')
+            send_btn.click()
+            sleep(1)
+            matches_tab = self.find_element_by_xpath('//*[@id="match-tab"]')
+            matches_tab.click()
+            sleep(0.5)
