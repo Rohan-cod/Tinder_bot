@@ -1,4 +1,4 @@
-# Tinder_bot
+# Tinder bot
 A tinder swipe bot made using the selenium library in python.😉
 
 ## Requirements
