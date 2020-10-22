@@ -36,3 +36,5 @@ To get started, the first step is to meet the community. We use slack to communi
 ## Code of conduct
 
 Check code of conduct [here](https://github.com/shubhdeeprajput/Tinder_bot/blob/master/CODE_OF_CONDUCT.md)
+## User demographics
+Over a third of those aged 18-24, and a quarter of those aged 25-34 use Tinder, as well as one in five in the 35-44 bracket. There's a small spike in Tinder usage among over 75s as compared with the immediately younger bracket.
