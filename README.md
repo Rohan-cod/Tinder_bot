@@ -1,4 +1,4 @@
-[![Logo](Logo "Logo")](https://github.com/anubhab-code/Tinder_bot/blob/master/logo.jpg "Logo")
+![image](https://github.com/koji/tinder-bot/blob/master/image/logo.png)
 
 # Tinder bot
 A tinder swipe bot made using the selenium library in python, that can automatically swipe right for you.😉
