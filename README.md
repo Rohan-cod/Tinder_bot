@@ -1,7 +1,13 @@
+[![Logo](Logo "Logo")](https://static.dezeen.com/uploads/2017/08/tinder-redesign-graphics_dezeen_hero-1.jpg "Logo")
+
 # Tinder bot
-A tinder swipe bot made using the selenium library in python.😉
+A tinder swipe bot made using the selenium library in python, that can automatically swipe right for you.😉
+
+
 ## About
-Tinder is an American geosocial networking and online dating application that allows users to anonymously swipe to like or dislike other profiles based on their photos, a small bio, and common interests. 
+Tinder is an American geosocial networking and online dating application that allows users to anonymously swipe to like or dislike other profiles based on their photos, a small bio, and common interests. **Swipe**  is central to the design of Tinder. The algorithm provides users, swipe right to "like" potential matches and swipe left to continue on their search from the compatible matches.
+
+
 ## Requirements
 
   * Python 3.7
