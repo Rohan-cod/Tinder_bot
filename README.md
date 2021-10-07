@@ -5,7 +5,7 @@ A tinder swipe bot made using the selenium library in python, that can automatic
 
 
 ## About
-Tinder is an American geosocial networking and online dating application that allows users to anonymously swipe to like or dislike other profiles based on their photos, a small bio, and common interests. **Swipe**  is central to the design of Tinder. The algorithm provides users, swipe right to "like" potential matches and swipe left to continue on their search from the compatible matches.
+Tinder is an American geosocial networking and online dating application that allows users to anonymously swipe to like or dislike other profiles based on their photos, a small bio, and common interests. **Swipe** is central to the design of Tinder. The algorithm provides users, swipe right to "like" potential matches and swipe left to continue on their search from the compatible matches.
 
 
 ## Requirements
@@ -42,5 +42,3 @@ To get started, the first step is to meet the community. We use slack to communi
 ## Code of conduct
 
 Check code of conduct [here](https://github.com/shubhdeeprajput/Tinder_bot/blob/master/CODE_OF_CONDUCT.md)
-## User demographics
-Over a third of those aged 18-24, and a quarter of those aged 25-34 use Tinder, as well as one in five in the 35-44 bracket. There's a small spike in Tinder usage among over 75s as compared with the immediately younger bracket.
