@@ -10,8 +10,8 @@ Tinder is an American geosocial networking and online dating application that al
 
 ## Requirements
 
-  * Python 3.7
-  * Django 2.2.8
+  * Python 3.8
+  * Django 2.2.10
   * selenium
   * gunicorn
   * ChromeDriver
